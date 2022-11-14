@@ -1,2 +1,2 @@
 # Decor
-An website for Interior Design
+Website for Interior Design
